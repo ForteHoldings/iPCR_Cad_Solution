@@ -1,0 +1,11 @@
+C:\My_Projects\Work\Utilities\iPCRCADModule\iPCRCADIntegration\iPCRCADIntegration\obj\x86\Release\iPCRCADModuleService.Resources.resources
+C:\My_Projects\Work\Utilities\iPCRCADModule\iPCRCADIntegration\iPCRCADIntegration\obj\x86\Release\iPCRCADModuleService.ProjectInstaller.resources
+C:\My_Projects\Work\Utilities\iPCRCADModule\iPCRCADIntegration\iPCRCADIntegration\obj\x86\Release\iPCRCADModuleService.Service1.resources
+C:\My_Projects\Work\Utilities\iPCRCADModule\iPCRCADIntegration\iPCRCADIntegration\obj\x86\Release\iPCRCADMiddlewareService.vbproj.GenerateResource.cache
+C:\My_Projects\Work\Utilities\iPCRCADModule\iPCRCADIntegration\iPCRCADIntegration\obj\x86\Release\iPCRCADMiddlewareService.vbproj.CoreCompileInputs.cache
+C:\My_Projects\Work\Utilities\iPCRCADModule\iPCRCADIntegration\iPCRCADIntegration\obj\x86\Release\iPCRCADMiddlewareService.vbproj.CopyComplete
+C:\My_Projects\Work\Utilities\iPCRCADModule\iPCRCADIntegration\iPCRCADIntegration\obj\x86\Release\iPCRCADModuleService.exe.config
+C:\My_Projects\Work\Utilities\iPCRCADModule\iPCRCADIntegration\iPCRCADIntegration\obj\x86\Release\iPCRCADModuleService.exe
+C:\My_Projects\Work\Utilities\iPCRCADModule\iPCRCADIntegration\iPCRCADIntegration\obj\x86\Release\iPCRCADModuleService.pdb
+C:\My_Projects\Work\Utilities\iPCRCADModule\iPCRCADIntegration\iPCRCADIntegration\obj\x86\Release\MySql.Data.dll
+C:\My_Projects\Work\Utilities\iPCRCADModule\iPCRCADIntegration\iPCRCADIntegration\obj\x86\Release\Newtonsoft.Json.dll

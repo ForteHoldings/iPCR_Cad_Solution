@@ -1,0 +1,10 @@
+C:\My_Projects\Work\Utilities\iPCRCADModule\iPCRCADMiddlewareSettings\iPCRCADModuleSettings\obj\x86\Release\iPCRCADModuleSettings.MainForm.resources
+C:\My_Projects\Work\Utilities\iPCRCADModule\iPCRCADMiddlewareSettings\iPCRCADModuleSettings\obj\x86\Release\iPCRCADModuleSettings.Resources.resources
+C:\My_Projects\Work\Utilities\iPCRCADModule\iPCRCADMiddlewareSettings\iPCRCADModuleSettings\obj\x86\Release\iPCRCADModuleSettings.SQLCredentialsForm.resources
+C:\My_Projects\Work\Utilities\iPCRCADModule\iPCRCADMiddlewareSettings\iPCRCADModuleSettings\obj\x86\Release\iPCRCADMiddlewareSettings.vbproj.GenerateResource.cache
+C:\My_Projects\Work\Utilities\iPCRCADModule\iPCRCADMiddlewareSettings\iPCRCADModuleSettings\obj\x86\Release\iPCRCADMiddlewareSettings.vbproj.CoreCompileInputs.cache
+C:\My_Projects\Work\Utilities\iPCRCADModule\iPCRCADMiddlewareSettings\iPCRCADModuleSettings\obj\x86\Release\iPCRCADMiddlewareSettings.vbproj.CopyComplete
+C:\My_Projects\Work\Utilities\iPCRCADModule\iPCRCADMiddlewareSettings\iPCRCADModuleSettings\obj\x86\Release\iPCRCADModuleSettings.exe.config
+C:\My_Projects\Work\Utilities\iPCRCADModule\iPCRCADMiddlewareSettings\iPCRCADModuleSettings\obj\x86\Release\iPCRCADModuleSettings.exe
+C:\My_Projects\Work\Utilities\iPCRCADModule\iPCRCADMiddlewareSettings\iPCRCADModuleSettings\obj\x86\Release\iPCRCADModuleSettings.pdb
+C:\My_Projects\Work\Utilities\iPCRCADModule\iPCRCADMiddlewareSettings\iPCRCADModuleSettings\obj\x86\Release\Newtonsoft.Json.dll
